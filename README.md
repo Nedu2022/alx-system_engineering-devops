@@ -1,3 +1,3 @@
 # System engineering DevOps
 
-This project automate some commands from the linux terminal
+Module of **System engineering** and  **Devops** , carried out during **Full Stack Software Engineering studies** at  **[ALX](https://www.alxafrica.com/)** .
